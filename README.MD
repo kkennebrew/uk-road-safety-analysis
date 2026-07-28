@@ -20,14 +20,14 @@ This project explores patterns in road safety data to identify where, when, and 
 | Python | Data processing and analysis |
 | pandas | Data cleaning, merging, and aggregation |
 | Matplotlib / Seaborn | Visualisations |
-| Power BI | Interactive dashboard |
+| Power BI | [Interactive dashboard](https://app.powerbi.com/reportEmbed?reportId=cbdb5433-a475-469a-ba23-a4ae849311d9&autoAuth=true&ctid=c65f8795-ba3d-4351-8a07-0865e5d8f090) |
 
 ## Files
 
 | File | Description |
 |---|---|
 | `UK Road Safety Report.pdf` | Full written report with methodology and findings |
-| `UK Road Safety Dashboard.pbix` | [Full dashboard file](https://app.powerbi.com/reportEmbed?reportId=cbdb5433-a475-469a-ba23-a4ae849311d9&autoAuth=true&ctid=c65f8795-ba3d-4351-8a07-0865e5d8f090) |
+| `UK Road Safety Dashboard.pbix` | Full dashboard file |
 
 ## Data source
 
