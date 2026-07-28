@@ -1,6 +1,6 @@
 # UK Road Safety Data Analysis
 
-An analysis of UK government road casualty statistics using the Department for Transport's 2024 dataset, covering collisions, casualties, and vehicle involvement across Great Britain.
+A brief analysis of UK government road casualty statistics using the Department for Transport's 2024 dataset, covering collisions, casualties, and vehicle involvement across Great Britain.
 
 ## Overview
 
