@@ -27,6 +27,7 @@ This project explores patterns in road safety data to identify where, when, and 
 | File | Description |
 |---|---|
 | `UK Road Safety Report.pdf` | Full written report with methodology and findings |
+| `UK Road Safety Dashboard.pbix` | Full dashboard file |
 
 ## Data source
 
